@@ -1,4 +1,4 @@
-homeassistant: true
+homeassistant: false
 frontend:
   port: 8081
 mqtt:
